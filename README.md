@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dawsze567@gmail.com
 - ⚡ Fun fact: I'm addicted to listening to music.
 
-[![Dawid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawiddszewczyk&count_private=true&theme=onedark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
