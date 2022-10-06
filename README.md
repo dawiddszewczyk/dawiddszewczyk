@@ -1,7 +1,8 @@
-### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawiddszewczyk&count_private=true&show_icons=true&theme=radical)
 <!--
 **dawiddszewczyk/dawiddszewczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,9 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
 
-- 💻 I’m currently working part-time as Flutter Developer at Codigee!
-- 😄 Pronouns: He/him
+- 💻 I’m currently working full-time as Flutter Developer at Codigee!
+- 💬 Ask me about Unity with Flutter im glad to help you!
 - 📫 How to reach me: dawsze567@gmail.com
 - ⚡ Fun fact: I'm addicted to listening to music.
 
