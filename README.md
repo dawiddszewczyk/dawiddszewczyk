@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 💻 I’m currently working full-time as Flutter Developer at Onwelo!
-- 💬 Ask me about Unity with Flutter im glad to help you!
 - 📫 How to reach me: dawsze567@gmail.com
 - ⚡ Fun fact: I'm addicted to listening to music.
 
