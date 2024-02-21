@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 💻 I’m currently working full-time as Senior Flutter Developer at tuul!
-- 📫 How to reach me: dawsze567@gmail.com
+- 📫 How to reach me: dawid@oddity.software
 - ⚡ Fun fact: I'm addicted to listening to music.
 
