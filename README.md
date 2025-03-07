@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-- 💻 I’m currently working full-time as Senior Flutter Developer at tuul!
-- 📫 How to reach me: dawid@oddity.software
-- ⚡ Fun fact: I'm addicted to listening to music.
+
+- 💻 Senior Flutter Developer @ tuul – crafting high-quality mobile experiences with Flutter.
+- 🚀 Passionate about clean code, performance optimization, and intuitive UI/UX.
+- 🎧 Always coding with music in the background—probably addicted to it.
+
+- 📫 Get in touch: dawid@oddity.software
 
