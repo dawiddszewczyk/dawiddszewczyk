@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-- 💻 Flutter Developer @ Kitopi – working on the Kitopi and Right Bite mobile apps.
+- 💻 Flutter Developer @ Kitopi – working on the Kitopi mobile app.
 - 📱 After hours I build and ship my own iOS apps as [oddity.software](https://oddity.software) – a blood pressure diary, a GLP-1 injection tracker and a posture scanner.
 - 🚀 Passionate about clean code, performance optimization, and intuitive UI/UX.
 - 🎧 Always coding with music in the background—probably addicted to it.
